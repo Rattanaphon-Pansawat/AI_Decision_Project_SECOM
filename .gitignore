@@ -1,0 +1,10 @@
+# KNIME system files (ไฟล์ระบบของ KNIME ไม่ต้องเก็บ)
+.metadata/
+
+# Data files (ไฟล์ข้อมูลดิบ/ผลลัพธ์ ไม่ต้องเก็บ มันใหญ่)
+*.csv
+*.xlsx
+*.table
+
+# KNIME compressed workflow files (เราจะเก็บเป็น folder)
+*.knar
