@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="compute_median_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="compute_median" type="xboolean" value="false"/>
+        <config key="filter_nominal_columns_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_columnfilter"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <config key="filter_nominal_columns">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="174"/>
+                <entry key="0" type="xstring" value="Pass/Fail"/>
+                <entry key="1" type="xstring" value="PCA dimension 0"/>
+                <entry key="2" type="xstring" value="PCA dimension 1"/>
+                <entry key="3" type="xstring" value="PCA dimension 2"/>
+                <entry key="4" type="xstring" value="PCA dimension 3"/>
+                <entry key="5" type="xstring" value="PCA dimension 4"/>
+                <entry key="6" type="xstring" value="PCA dimension 5"/>
+                <entry key="7" type="xstring" value="PCA dimension 6"/>
+                <entry key="8" type="xstring" value="PCA dimension 7"/>
+                <entry key="9" type="xstring" value="PCA dimension 8"/>
+                <entry key="10" type="xstring" value="PCA dimension 9"/>
+                <entry key="11" type="xstring" value="PCA dimension 10"/>
+                <entry key="12" type="xstring" value="PCA dimension 11"/>
+                <entry key="13" type="xstring" value="PCA dimension 12"/>
+                <entry key="14" type="xstring" value="PCA dimension 13"/>
+                <entry key="15" type="xstring" value="PCA dimension 14"/>
+                <entry key="16" type="xstring" value="PCA dimension 15"/>
+                <entry key="17" type="xstring" value="PCA dimension 16"/>
+                <entry key="18" type="xstring" value="PCA dimension 17"/>
+                <entry key="19" type="xstring" value="PCA dimension 18"/>
+                <entry key="20" type="xstring" value="PCA dimension 19"/>
+                <entry key="21" type="xstring" value="PCA dimension 20"/>
+                <entry key="22" type="xstring" value="PCA dimension 21"/>
+                <entry key="23" type="xstring" value="PCA dimension 22"/>
+                <entry key="24" type="xstring" value="PCA dimension 23"/>
+                <entry key="25" type="xstring" value="PCA dimension 24"/>
+                <entry key="26" type="xstring" value="PCA dimension 25"/>
+                <entry key="27" type="xstring" value="PCA dimension 26"/>
+                <entry key="28" type="xstring" value="PCA dimension 27"/>
+                <entry key="29" type="xstring" value="PCA dimension 28"/>
+                <entry key="30" type="xstring" value="PCA dimension 29"/>
+                <entry key="31" type="xstring" value="PCA dimension 30"/>
+                <entry key="32" type="xstring" value="PCA dimension 31"/>
+                <entry key="33" type="xstring" value="PCA dimension 32"/>
+                <entry key="34" type="xstring" value="PCA dimension 33"/>
+                <entry key="35" type="xstring" value="PCA dimension 34"/>
+                <entry key="36" type="xstring" value="PCA dimension 35"/>
+                <entry key="37" type="xstring" value="PCA dimension 36"/>
+                <entry key="38" type="xstring" value="PCA dimension 37"/>
+                <entry key="39" type="xstring" value="PCA dimension 38"/>
+                <entry key="40" type="xstring" value="PCA dimension 39"/>
+                <entry key="41" type="xstring" value="PCA dimension 40"/>
+                <entry key="42" type="xstring" value="PCA dimension 41"/>
+                <entry key="43" type="xstring" value="PCA dimension 42"/>
+                <entry key="44" type="xstring" value="PCA dimension 43"/>
+                <entry key="45" type="xstring" value="PCA dimension 44"/>
+                <entry key="46" type="xstring" value="PCA dimension 45"/>
+                <entry key="47" type="xstring" value="PCA dimension 46"/>
+                <entry key="48" type="xstring" value="PCA dimension 47"/>
+                <entry key="49" type="xstring" value="PCA dimension 48"/>
+                <entry key="50" type="xstring" value="PCA dimension 49"/>
+                <entry key="51" type="xstring" value="PCA dimension 50"/>
+                <entry key="52" type="xstring" value="PCA dimension 51"/>
+                <entry key="53" type="xstring" value="PCA dimension 52"/>
+                <entry key="54" type="xstring" value="PCA dimension 53"/>
+                <entry key="55" type="xstring" value="PCA dimension 54"/>
+                <entry key="56" type="xstring" value="PCA dimension 55"/>
+                <entry key="57" type="xstring" value="PCA dimension 56"/>
+                <entry key="58" type="xstring" value="PCA dimension 57"/>
+                <entry key="59" type="xstring" value="PCA dimension 58"/>
+                <entry key="60" type="xstring" value="PCA dimension 59"/>
+                <entry key="61" type="xstring" value="PCA dimension 60"/>
+                <entry key="62" type="xstring" value="PCA dimension 61"/>
+                <entry key="63" type="xstring" value="PCA dimension 62"/>
+                <entry key="64" type="xstring" value="PCA dimension 63"/>
+                <entry key="65" type="xstring" value="PCA dimension 64"/>
+                <entry key="66" type="xstring" value="PCA dimension 65"/>
+                <entry key="67" type="xstring" value="PCA dimension 66"/>
+                <entry key="68" type="xstring" value="PCA dimension 67"/>
+                <entry key="69" type="xstring" value="PCA dimension 68"/>
+                <entry key="70" type="xstring" value="PCA dimension 69"/>
+                <entry key="71" type="xstring" value="PCA dimension 70"/>
+                <entry key="72" type="xstring" value="PCA dimension 71"/>
+                <entry key="73" type="xstring" value="PCA dimension 72"/>
+                <entry key="74" type="xstring" value="PCA dimension 73"/>
+                <entry key="75" type="xstring" value="PCA dimension 74"/>
+                <entry key="76" type="xstring" value="PCA dimension 75"/>
+                <entry key="77" type="xstring" value="PCA dimension 76"/>
+                <entry key="78" type="xstring" value="PCA dimension 77"/>
+                <entry key="79" type="xstring" value="PCA dimension 78"/>
+                <entry key="80" type="xstring" value="PCA dimension 79"/>
+                <entry key="81" type="xstring" value="PCA dimension 80"/>
+                <entry key="82" type="xstring" value="PCA dimension 81"/>
+                <entry key="83" type="xstring" value="PCA dimension 82"/>
+                <entry key="84" type="xstring" value="PCA dimension 83"/>
+                <entry key="85" type="xstring" value="PCA dimension 84"/>
+                <entry key="86" type="xstring" value="PCA dimension 85"/>
+                <entry key="87" type="xstring" value="PCA dimension 86"/>
+                <entry key="88" type="xstring" value="PCA dimension 87"/>
+                <entry key="89" type="xstring" value="PCA dimension 88"/>
+                <entry key="90" type="xstring" value="PCA dimension 89"/>
+                <entry key="91" type="xstring" value="PCA dimension 90"/>
+                <entry key="92" type="xstring" value="PCA dimension 91"/>
+                <entry key="93" type="xstring" value="PCA dimension 92"/>
+                <entry key="94" type="xstring" value="PCA dimension 93"/>
+                <entry key="95" type="xstring" value="PCA dimension 94"/>
+                <entry key="96" type="xstring" value="PCA dimension 95"/>
+                <entry key="97" type="xstring" value="PCA dimension 96"/>
+                <entry key="98" type="xstring" value="PCA dimension 97"/>
+                <entry key="99" type="xstring" value="PCA dimension 98"/>
+                <entry key="100" type="xstring" value="PCA dimension 99"/>
+                <entry key="101" type="xstring" value="PCA dimension 100"/>
+                <entry key="102" type="xstring" value="PCA dimension 101"/>
+                <entry key="103" type="xstring" value="PCA dimension 102"/>
+                <entry key="104" type="xstring" value="PCA dimension 103"/>
+                <entry key="105" type="xstring" value="PCA dimension 104"/>
+                <entry key="106" type="xstring" value="PCA dimension 105"/>
+                <entry key="107" type="xstring" value="PCA dimension 106"/>
+                <entry key="108" type="xstring" value="PCA dimension 107"/>
+                <entry key="109" type="xstring" value="PCA dimension 108"/>
+                <entry key="110" type="xstring" value="PCA dimension 109"/>
+                <entry key="111" type="xstring" value="PCA dimension 110"/>
+                <entry key="112" type="xstring" value="PCA dimension 111"/>
+                <entry key="113" type="xstring" value="PCA dimension 112"/>
+                <entry key="114" type="xstring" value="PCA dimension 113"/>
+                <entry key="115" type="xstring" value="PCA dimension 114"/>
+                <entry key="116" type="xstring" value="PCA dimension 115"/>
+                <entry key="117" type="xstring" value="PCA dimension 116"/>
+                <entry key="118" type="xstring" value="PCA dimension 117"/>
+                <entry key="119" type="xstring" value="PCA dimension 118"/>
+                <entry key="120" type="xstring" value="PCA dimension 119"/>
+                <entry key="121" type="xstring" value="PCA dimension 120"/>
+                <entry key="122" type="xstring" value="PCA dimension 121"/>
+                <entry key="123" type="xstring" value="PCA dimension 122"/>
+                <entry key="124" type="xstring" value="PCA dimension 123"/>
+                <entry key="125" type="xstring" value="PCA dimension 124"/>
+                <entry key="126" type="xstring" value="PCA dimension 125"/>
+                <entry key="127" type="xstring" value="PCA dimension 126"/>
+                <entry key="128" type="xstring" value="PCA dimension 127"/>
+                <entry key="129" type="xstring" value="PCA dimension 128"/>
+                <entry key="130" type="xstring" value="PCA dimension 129"/>
+                <entry key="131" type="xstring" value="PCA dimension 130"/>
+                <entry key="132" type="xstring" value="PCA dimension 131"/>
+                <entry key="133" type="xstring" value="PCA dimension 132"/>
+                <entry key="134" type="xstring" value="PCA dimension 133"/>
+                <entry key="135" type="xstring" value="PCA dimension 134"/>
+                <entry key="136" type="xstring" value="PCA dimension 135"/>
+                <entry key="137" type="xstring" value="PCA dimension 136"/>
+                <entry key="138" type="xstring" value="PCA dimension 137"/>
+                <entry key="139" type="xstring" value="PCA dimension 138"/>
+                <entry key="140" type="xstring" value="PCA dimension 139"/>
+                <entry key="141" type="xstring" value="PCA dimension 140"/>
+                <entry key="142" type="xstring" value="PCA dimension 141"/>
+                <entry key="143" type="xstring" value="PCA dimension 142"/>
+                <entry key="144" type="xstring" value="PCA dimension 143"/>
+                <entry key="145" type="xstring" value="PCA dimension 144"/>
+                <entry key="146" type="xstring" value="PCA dimension 145"/>
+                <entry key="147" type="xstring" value="PCA dimension 146"/>
+                <entry key="148" type="xstring" value="PCA dimension 147"/>
+                <entry key="149" type="xstring" value="PCA dimension 148"/>
+                <entry key="150" type="xstring" value="PCA dimension 149"/>
+                <entry key="151" type="xstring" value="PCA dimension 150"/>
+                <entry key="152" type="xstring" value="PCA dimension 151"/>
+                <entry key="153" type="xstring" value="PCA dimension 152"/>
+                <entry key="154" type="xstring" value="PCA dimension 153"/>
+                <entry key="155" type="xstring" value="PCA dimension 154"/>
+                <entry key="156" type="xstring" value="PCA dimension 155"/>
+                <entry key="157" type="xstring" value="PCA dimension 156"/>
+                <entry key="158" type="xstring" value="PCA dimension 157"/>
+                <entry key="159" type="xstring" value="PCA dimension 158"/>
+                <entry key="160" type="xstring" value="PCA dimension 159"/>
+                <entry key="161" type="xstring" value="PCA dimension 160"/>
+                <entry key="162" type="xstring" value="PCA dimension 161"/>
+                <entry key="163" type="xstring" value="PCA dimension 162"/>
+                <entry key="164" type="xstring" value="PCA dimension 163"/>
+                <entry key="165" type="xstring" value="PCA dimension 164"/>
+                <entry key="166" type="xstring" value="PCA dimension 165"/>
+                <entry key="167" type="xstring" value="PCA dimension 166"/>
+                <entry key="168" type="xstring" value="PCA dimension 167"/>
+                <entry key="169" type="xstring" value="PCA dimension 168"/>
+                <entry key="170" type="xstring" value="PCA dimension 169"/>
+                <entry key="171" type="xstring" value="PCA dimension 170"/>
+                <entry key="172" type="xstring" value="PCA dimension 171"/>
+                <entry key="173" type="xstring" value="PCA dimension 172"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist">
+                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+                </config>
+            </config>
+        </config>
+        <config key="num_nominal-values_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="num_nominal-values" type="xint" value="20"/>
+        <config key="num_nominal-values_output_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="num_nominal-values_output" type="xint" value="1000"/>
+        <config key="enable HiLite_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="enable HiLite" type="xboolean" value="false"/>
+        <config key="image format_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="image format" type="xstring" value="SVG"/>
+        <config key="histogram width_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="histogram width" type="xint" value="200"/>
+        <config key="histogram height_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="histogram height" type="xint" value="100"/>
+        <config key="show min max_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="show min max" type="xboolean" value="true"/>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Maximum number of unique possible values (1000) exceeds for column(s): &quot;PCA dimension 0&quot;,&quot;PCA dimension 1&quot;,&quot;PCA dimension 2&quot;,&quot;PCA dimension 3&quot;,&quot;PCA dimension 4&quot;,&quot;PCA dimension 5&quot;,&quot;PCA dimension 6&quot;,&quot;PCA dimension 7&quot;,&quot;PCA dimension 8&quot;,&quot;PCA dimension 9&quot;,&quot;PCA dimension 10&quot;,&quot;PCA dimension 11&quot;,&quot;PCA dimension 12&quot;,&quot;PCA dimension 13&quot;,&quot;PCA dimension 14&quot;,&quot;PCA dimension 15&quot;,&quot;PCA dimension 16&quot;,&quot;PCA dimension 17&quot;,&quot;PCA dimension 18&quot;,&quot;PCA dimension 19&quot;,&quot;PCA dimension 20&quot;,&quot;PCA dimension 21&quot;,&quot;PCA dimension 22&quot;,&quot;PCA dimension 23&quot;,&quot;PCA dimension 24&quot;,&quot;PCA dimension 25&quot;,&quot;PCA dimension 26&quot;,&quot;PCA dimension 27&quot;,&quot;PCA dimension 28&quot;,&quot;PCA dimension 29&quot;,&quot;PCA dimension 30&quot;,&quot;PCA dimension 31&quot;,&quot;PCA dimension 32&quot;,&quot;PCA dimension 33&quot;,&quot;PCA dimension 34&quot;,&quot;PCA dimension 35&quot;,&quot;PCA dimension 36&quot;,&quot;PCA dimension 37&quot;,&quot;PCA dimension 38&quot;,&quot;PCA dimension 39&quot;,&quot;PCA dimension 40&quot;,&quot;PCA dimension 41&quot;,&quot;PCA dimension 42&quot;,&quot;PCA dimension 43&quot;,&quot;PCA dimension 44&quot;,&quot;PCA dimension 45&quot;,&quot;PCA dimension 46&quot;,&quot;PCA dimension 47&quot;,&quot;PCA dimension 48&quot;,&quot;PCA dimension 49&quot;,&quot;PCA dimension 50&quot;,&quot;PCA dimension 51&quot;,&quot;PCA dimension 52&quot;,&quot;PCA dimension 53&quot;,&quot;PCA dimension 54&quot;,&quot;PCA dimension 55&quot;,&quot;PCA dimension 56&quot;,&quot;PCA dimension 57&quot;,&quot;PCA dimension 58&quot;,&quot;PCA dimension 59&quot;,&quot;PCA dimension 60&quot;,&quot;PCA dimension 61&quot;,&quot;PCA dimension 62&quot;,&quot;PCA dimension 63&quot;,&quot;PCA dimension 64&quot;,&quot;PCA dimension 65&quot;,&quot;PCA dimension 66&quot;,&quot;PCA dimension 67&quot;,&quot;PCA dimension 68&quot;,&quot;PCA dimension 69&quot;,&quot;PCA dimension 70&quot;,&quot;PCA dimension 71&quot;,&quot;PCA dimension 72&quot;,&quot;PCA dimension 73&quot;,&quot;PCA dimension 74&quot;,&quot;PCA dimension 75&quot;,&quot;PCA dimension 76&quot;,&quot;PCA dimension 77&quot;,&quot;PCA dimension 78&quot;,&quot;PCA dimension 79&quot;,&quot;PCA dimension 80&quot;,&quot;PCA dimension 81&quot;,&quot;PCA dimension 82&quot;,&quot;PCA dimension 83&quot;,&quot;PCA dimension 84&quot;,&quot;PCA dimension 85&quot;,&quot;PCA dimension 86&quot;,&quot;PCA dimension 87&quot;,&quot;PCA dimension 88&quot;,&quot;PCA dimension 89&quot;,&quot;PCA dimension 90&quot;,&quot;PCA dimension 91&quot;,&quot;PCA dimension 92&quot;,&quot;PCA dimension 93&quot;,&quot;PCA dimension 94&quot;,&quot;PCA dimension 95&quot;,&quot;PCA dimension 96&quot;,&quot;PCA dimension 97&quot;,&quot;PCA dimension 98&quot;,&quot;PCA dimension 99&quot;,&quot;PCA dimension 100&quot;,&quot;PCA dimension 101&quot;,&quot;PCA dimension 102&quot;,&quot;PCA dimension 103&quot;,&quot;PCA dimension 104&quot;,&quot;PCA dimension 105&quot;,&quot;PCA dimension 106&quot;,&quot;PCA dimension 107&quot;,&quot;PCA dimension 108&quot;,&quot;PCA dimension 109&quot;,&quot;PCA dimension 110&quot;,&quot;PCA dimension 111&quot;,&quot;PCA dimension 112&quot;,&quot;PCA dimension 113&quot;,&quot;PCA dimension 114&quot;,&quot;PCA dimension 115&quot;,&quot;PCA dimension 116&quot;,&quot;PCA dimension 117&quot;,&quot;PCA dimension 118&quot;,&quot;PCA dimension 119&quot;,&quot;PCA dimension 120&quot;,&quot;PCA dimension 121&quot;,&quot;PCA dimension 122&quot;,&quot;PCA dimension 123&quot;,&quot;PCA dimension 124&quot;,&quot;PCA dimension 125&quot;,&quot;PCA dimension 126&quot;,&quot;PCA dimension 127&quot;,&quot;PCA dimension 128&quot;,&quot;PCA dimension 129&quot;,&quot;PCA dimension 130&quot;,&quot;PCA dimension 131&quot;,&quot;PCA dimension 132&quot;,&quot;PCA dimension 133&quot;,&quot;PCA dimension 134&quot;,&quot;PCA dimension 135&quot;,&quot;PCA dimension 136&quot;,&quot;PCA dimension 137&quot;,&quot;PCA dimension 138&quot;,&quot;PCA dimension 139&quot;,&quot;PCA dimension 140&quot;,&quot;PCA dimension 141&quot;,&quot;PCA dimension 142&quot;,&quot;PCA dimension 143&quot;,&quot;PCA dimension 144&quot;,&quot;PCA dimension 145&quot;,&quot;PCA dimension 146&quot;,&quot;PCA dimension 147&quot;,&quot;PCA dimension 148&quot;,&quot;PCA dimension 149&quot;,&quot;PCA dimension 150&quot;,&quot;PCA dimension 151&quot;,&quot;PCA dimension 152&quot;,&quot;PCA dimension 153&quot;,&quot;PCA dimension 154&quot;,&quot;PCA dimension 155&quot;,&quot;PCA dimension 156&quot;,&quot;PCA dimension 157&quot;,&quot;PCA dimension 158&quot;,&quot;PCA dimension 159&quot;,&quot;PCA dimension 160&quot;,&quot;PCA dimension 161&quot;,&quot;PCA dimension 162&quot;,&quot;PCA dimension 163&quot;,&quot;PCA dimension 164&quot;,&quot;PCA dimension 165&quot;,&quot;PCA dimension 166&quot;,&quot;PCA dimension 167&quot;,&quot;PCA dimension 168&quot;,&quot;PCA dimension 169&quot;,&quot;PCA dimension 170&quot;,&quot;PCA dimension 171&quot;,&quot;PCA dimension 172&quot;"/>
+    </config>
+    <entry key="factory" type="xstring" value="org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Statistics"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Statistic Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.stats"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.6.0.v202507151412"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Statistics Nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.stats.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.6.0.v202507151412"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Statistics"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 173, Cols: 16"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+        <config key="port_2">
+            <entry key="index" type="xint" value="2"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 174, Cols: 3"/>
+            <entry key="port_dir_location" type="xstring" value="port_2"/>
+        </config>
+        <config key="port_3">
+            <entry key="index" type="xint" value="3"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2, Cols: 522"/>
+            <entry key="port_dir_location" type="xstring" value="port_3"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="d4a61133-ff76-4a9e-a12e-c7c857330d9b"/>
+    </config>
+</config>
